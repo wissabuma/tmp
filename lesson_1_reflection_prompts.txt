@@ -1,6 +1,7 @@
 How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
+some modification
     Fill in your answer here
     diff helps me to focus only on the changing parts and search the bug only in the changed parts
     rather than navigating the whole document! the bug must be in one of the changes introduced
